@@ -14,7 +14,6 @@ namespace CryptoMVC.Core.Models
         [StringLength(50)]
         public string Title { get; set; } = null!;
         public string Description { get; set; }     
-        public string Text {get; set;}
 
     }
 }
