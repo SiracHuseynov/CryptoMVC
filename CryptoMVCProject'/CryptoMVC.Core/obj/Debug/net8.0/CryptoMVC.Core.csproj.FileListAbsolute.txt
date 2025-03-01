@@ -1,0 +1,11 @@
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\bin\Debug\net8.0\CryptoMVC.Core.deps.json
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\bin\Debug\net8.0\CryptoMVC.Core.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\bin\Debug\net8.0\CryptoMVC.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\CryptoMVC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\CryptoMVC.Core.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\CryptoMVC.Core.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\CryptoMVC.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\CryptoMVC.Core.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\refint\CryptoMVC.Core.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\CryptoMVC.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Core\obj\Debug\net8.0\ref\CryptoMVC.Core.dll

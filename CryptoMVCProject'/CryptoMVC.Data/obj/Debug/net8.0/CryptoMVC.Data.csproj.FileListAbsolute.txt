@@ -1,0 +1,17 @@
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\bin\Debug\net8.0\CryptoMVC.Data.deps.json
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\bin\Debug\net8.0\CryptoMVC.Data.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\bin\Debug\net8.0\CryptoMVC.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\refint\CryptoMVC.Data.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\ref\CryptoMVC.Data.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\bin\Debug\net8.0\CryptoMVC.Core.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\bin\Debug\net8.0\CryptoMVC.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMV.FD4E5CA4.Up2Date
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\bin\Debug\net8.0\CryptoMVC.Data.runtimeconfig.json
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Data\obj\Debug\net8.0\CryptoMVC.Data.genruntimeconfig.cache

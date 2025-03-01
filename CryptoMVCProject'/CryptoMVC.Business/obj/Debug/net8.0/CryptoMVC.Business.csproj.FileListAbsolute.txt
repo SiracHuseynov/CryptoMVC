@@ -1,0 +1,17 @@
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\bin\Debug\net8.0\CryptoMVC.Business.deps.json
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\bin\Debug\net8.0\CryptoMVC.Business.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\bin\Debug\net8.0\CryptoMVC.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMVC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMVC.Business.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMVC.Business.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMVC.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMVC.Business.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\refint\CryptoMVC.Business.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMVC.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\ref\CryptoMVC.Business.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\bin\Debug\net8.0\CryptoMVC.Core.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\bin\Debug\net8.0\CryptoMVC.Data.dll
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\bin\Debug\net8.0\CryptoMVC.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\bin\Debug\net8.0\CryptoMVC.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMVC.Business.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\MVCRepeat\CryptoMVC\CryptoMVC.Business\obj\Debug\net8.0\CryptoMV.BEF51823.Up2Date

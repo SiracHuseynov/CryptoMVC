@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\feature\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\feature\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\feature\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\feature\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}|CryptoMVC\\CryptoMVC.csproj|solutionrelative:cryptomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.data\\migrations\\20250109184333_createfeaturetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|solutionrelative:cryptomvc.data\\migrations\\20250109184333_createfeaturetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662DA626-D583-483B-8EDF-270DDB30FA8D}|CryptoMVC.Business\\CryptoMVC.Business.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662DA626-D583-483B-8EDF-270DDB30FA8D}|CryptoMVC.Business\\CryptoMVC.Business.csproj|solutionrelative:cryptomvc.business\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662DA626-D583-483B-8EDF-270DDB30FA8D}|CryptoMVC.Business\\CryptoMVC.Business.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.business\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662DA626-D583-483B-8EDF-270DDB30FA8D}|CryptoMVC.Business\\CryptoMVC.Business.csproj|solutionrelative:cryptomvc.business\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.data\\repositoryconcretes\\featurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|solutionrelative:cryptomvc.data\\repositoryconcretes\\featurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|solutionrelative:cryptomvc.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.data\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C67E1-659F-498F-8A7E-EA17E84C7418}|CryptoMVC.Data\\CryptoMVC.Data.csproj|solutionrelative:cryptomvc.data\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|solutionrelative:cryptomvc.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.core\\repositoryabstracts\\ifeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|solutionrelative:cryptomvc.core\\repositoryabstracts\\ifeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.core\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|solutionrelative:cryptomvc.core\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.core\\cryptomvc.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|solutionrelative:cryptomvc.core\\cryptomvc.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|c:\\users\\sirac huseynov\\desktop\\mvcrepeat\\cryptomvc\\cryptomvc.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}|CryptoMVC.Core\\CryptoMVC.Core.csproj|solutionrelative:cryptomvc.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:29:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:25:41.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:19:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:06:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:05:50.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:01:49.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:01:45.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:01:34.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADcBAAAAAAAAAAAuwFgBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:01:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:01:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAHMBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T19:00:47.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "CryptoMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "CryptoMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-09T18:56:31.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAACcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T18:48:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CryptoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CryptoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAANQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T18:46:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250109184333_CreateFeatureTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\Migrations\\20250109184333_CreateFeatureTable.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Data\\Migrations\\20250109184333_CreateFeatureTable.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\Migrations\\20250109184333_CreateFeatureTable.cs",
+              "RelativeToolTip": "CryptoMVC.Data\\Migrations\\20250109184333_CreateFeatureTable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:43:33.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Business\\Services\\Concretes\\FeatureService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Business\\Services\\Concretes\\FeatureService.cs",
+              "RelativeToolTip": "CryptoMVC.Business\\Services\\Concretes\\FeatureService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:39:51.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeToolTip": "CryptoMVC.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:36:11.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeToolTip": "CryptoMVC.Data\\RepositoryConcretes\\FeatureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:35:11.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "CryptoMVC.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:31:37.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Program.cs",
+              "RelativeToolTip": "CryptoMVC\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:30:15.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CryptoMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\appsettings.json",
+              "RelativeToolTip": "CryptoMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T18:29:21.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Data\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Data\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "CryptoMVC.Data\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:28:19.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "RelativeToolTip": "CryptoMVC.Core\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:27:40.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "CryptoMVC.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:25:39.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CryptoMVC.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\CryptoMVC.Core.csproj",
+              "RelativeDocumentMoniker": "CryptoMVC.Core\\CryptoMVC.Core.csproj",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\CryptoMVC.Core.csproj",
+              "RelativeToolTip": "CryptoMVC.Core\\CryptoMVC.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T18:23:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Core\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\Models\\Feature.cs",
+              "RelativeToolTip": "CryptoMVC.Core\\Models\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:21:44.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CryptoMVC.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "CryptoMVC.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:21:32.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CryptoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\MVCRepeat\\CryptoMVC\\CryptoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CryptoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:18:11.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

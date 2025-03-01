@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoMVC", "CryptoMVC\CryptoMVC.csproj", "{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoMVC.Core", "CryptoMVC.Core\CryptoMVC.Core.csproj", "{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoMVC.Data", "CryptoMVC.Data\CryptoMVC.Data.csproj", "{955C67E1-659F-498F-8A7E-EA17E84C7418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoMVC.Business", "CryptoMVC.Business\CryptoMVC.Business.csproj", "{662DA626-D583-483B-8EDF-270DDB30FA8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8094E7A5-0DAB-43ED-8D29-70FE4BED6AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF38421-80B6-4EA3-9352-1B83A1F04BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955C67E1-659F-498F-8A7E-EA17E84C7418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955C67E1-659F-498F-8A7E-EA17E84C7418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955C67E1-659F-498F-8A7E-EA17E84C7418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955C67E1-659F-498F-8A7E-EA17E84C7418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662DA626-D583-483B-8EDF-270DDB30FA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662DA626-D583-483B-8EDF-270DDB30FA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662DA626-D583-483B-8EDF-270DDB30FA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662DA626-D583-483B-8EDF-270DDB30FA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB73D45-B325-4F67-AF09-7967F779F7B4}
+	EndGlobalSection
+EndGlobal

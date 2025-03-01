@@ -1,0 +1,41 @@
+﻿@using CryptoMVC.Core.Models
+@model List<Feature>
+
+<div class="container">
+    <div class="row mb-3">
+        <div class="col-3">
+            <a asp-action="Create" asp-controller="Feature" class="btn btn-outline-primary">Create Feature</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Icon</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(Feature feature in Model)
+                    {
+                        <tr>
+                            <th scope="row">@feature.Id</th>
+                            <td>@Html.Raw(feature.Icon)</td> 
+                            <td>@feature.Title</td>
+                            <td>@feature.Description</td>
+                            <td>
+                                <a class="btn btn-outline-warning" asp-action="Update" asp-controller="Feature" asp-route-id="@feature.Id">Update</a>
+                                <a class="btn btn-outline-danger" asp-action="Delete" asp-controller="Feature" asp-route-id="@feature.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

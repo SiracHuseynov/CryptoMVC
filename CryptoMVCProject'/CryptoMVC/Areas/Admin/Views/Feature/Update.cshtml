@@ -1,0 +1,26 @@
+﻿@using CryptoMVC.Core.Models
+@model Feature
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Update" method="post">
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Icon</label>
+                    <input type="text" asp-for="Icon" class="form-control" id="exampleFormControlInput1">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlInput2" class="form-label">Title</label>
+                    <input type="text" asp-for="Title" class="form-control" id="exampleFormControlInput2">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Description</label>
+                    <textarea class="form-control" asp-for="Description" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-outline-primary">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

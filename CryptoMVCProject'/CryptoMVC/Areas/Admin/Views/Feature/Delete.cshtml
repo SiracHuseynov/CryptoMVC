@@ -1,0 +1,22 @@
+﻿@using CryptoMVC.Core.Models
+@model Feature
+
+<div class="container">
+    <div class="raw">
+        <div class="col-6">
+            <form method="post" asp-action="DeletePost">
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Icon</h5>
+                        <h5 class="card-title">@Model.Title</h5>
+                        <h5 class="card-title">@Model.Description</h5>
+                  
+                        <input asp-for="@Model.Id" hidden value="@Model.Id" />
+                        <a asp-action="Index" class="btn btn-info">Go Back</a>
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
